@@ -5,7 +5,7 @@ Code and data for inference and analysis of feedback regulations type and burst 
 
 ## System Requirements
 
-### **Scripts of inference **
+### **Scripts of inference**
 
 The code of parameter inference for the hierarchical and telegraph models in the `code_Inference` folder are all MATLAB scripts with versions
 
